@@ -9,3 +9,4 @@ asyncio
 wordcloud
 googletrans
 scikit-learn
+lxml
