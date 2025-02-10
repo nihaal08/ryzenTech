@@ -4,7 +4,6 @@ requests
 beautifulsoup4
 matplotlib
 plotly
-sqlite3
 nltk
 asyncio
 wordcloud
