@@ -7,6 +7,6 @@ plotly
 nltk
 asyncio
 wordcloud
-googletrans
+googletrans==4.0.0-rc1
 scikit-learn
 lxml
